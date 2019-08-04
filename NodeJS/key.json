@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dunzo-blume",
+  "private_key_id": "056d5f4da737e0f61fff16fc126000e7ef7608ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDl1RRYaTPoYqyn\n50Gn/4FhimST7TgeDHGJfaorUQpRtUEHL6dOKmg9+PdNncbtzTjD6BxuZOu64WZi\n9nCzt1WtP0/a6fTGRMLY7a9x4ubq+yn6E4KCp5ua4ZVaxWM26+jqKhz/i85q1OaM\nwt/7Zzj9qW83ii/LI7s+RVuHIDAq2C07MzeYpCrMywTpcsJozow/DQ756ltPtJ0A\nT3mBhSlREaILiqshbZxFaNt+z6pklDjWe15eTYtCDfDgBONgw3yjXbrunZzMzVEr\neB9Ub81euSA4PIWZtDOJ0PjDa5QtLXj0wgJ0Vw+fx2VkuLFUB5UFtUhlNjFh/kyB\nN0xUem27AgMBAAECggEAaTSeIRBbLfuJPDycLdpEL9GpU5uJjhu1FzJaZISuvBND\nxpXWOG4qFIA0OCfKiU1hODA2X4Q78eo+s3tKwMFh6zGpjLR+kwmjxagboP60JIk/\nQFWQ7tzpWj773ravQVNA5XvMlV+6Z+W3+WQ1IkAwctEN83cChLMBAbK/AH5H/jvj\nRAjfqNIZriyLWe1xoFQEZm87gmTfEpFSoErwKzCL9fxiOSCLp9XrQcbWZSM5qFn7\nuhqg8xhTblbNyXGYuUfu24eLVoLT2ZhE2g7nKKTkFnL6SHiFDklDmfLt5Mv9PAE+\nDpiBNHFokBuzQW//rK5twbaKcQc32ksLn+Ii+h5JoQKBgQD9byEXpncchRHTkFmL\n4j564rvhppS4FEUzfeoTxhC2breJl1841aielaHehIT3OYszWEUHK+lY5rXMOvF1\nESVYAe61VjMKy2TXX1Z/eIw/7UAWhvRkc8HVybtHSFNU+svcTN99B7GSyGI5hgNT\nKMXx5RRMpM38qK0RUubbyjXdGwKBgQDoKMb8YqY1tO27sE/2m4qE5DhYWaiqE5fi\ngBDej5dKJ1RP837TG/kNi19oS37NgYrKEtzEvlETxXxmm0JWhmWlYk3KFAOEWkQk\nBB8fTlXNDINAHXznj81BTVstrwNsx0YJFWGxaSAa6TyIJ2/mbyo3tgwmVUJmP3Ft\nvgurZcfb4QKBgGKGP3E4T/oQaXu8FHPjQrL3Tl9NKWfeyYBZJRUG3RxvMn8VD/nC\nZkkwlrsw/Zg3ELynRj6hfZgIKQj6qT//qGrsZWat2i4KIGvyLmhj7vIzQ8T+NiiP\nL/3y7RGrNmpFDdfZMtEimpAbwsPmK4i6wyllC104fLQKxy2C8yjjFcmdAoGBAIcp\nLmhD2raL5piOFo/hkGy8Hd26HUsfax7wJmIcwRzn9tsxTRYFRCNRkDM9OM7Wa4Io\nJyXYE4XqRPnLzHxpdIYrzFQpAL8ueltpluD4D1X4wfUy9cQu4XXyXnIjYWAUSD8D\nlsPeC1X/kkFGjIxhDfgvYbVzj9vNdfFJYqvf7tKhAoGAFLKl6hzcJuEXwCNS50ml\nx0FFMu7OiQPCVnrMm8Sw0SbpsJ9NjrjucAbwVJvUAlVue0StQpWHAOZkX2sBjBZZ\n9+awcqwYBOQehTedkBEXkNpjnRyxbyxRjkrSzkkHtwnEY8diGZiUS9SkaupLhAK7\nG04JxpDLXE/ZFUCOpfwAT1w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "neilspaul@dunzo-blume.iam.gserviceaccount.com",
+  "client_id": "104893449173764266592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neilspaul%40dunzo-blume.iam.gserviceaccount.com"
+}
