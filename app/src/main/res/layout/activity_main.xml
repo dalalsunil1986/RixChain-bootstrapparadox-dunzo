@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    tools:context="com.dunzo.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="@dimen/size_20dp"
+            android:layout_marginBottom="50dp"
+            android:layout_marginEnd="@dimen/size_20dp">
+
+
+
+            <TextView
+                android:id="@+id/tv_capture_receipt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/capture_your_receipt"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/font_size_23sp"
+                android:background="@drawable/button_bg"
+                android:paddingTop="@dimen/size_8dp"
+                android:paddingBottom="@dimen/size_8dp"/>
+
+            <TextView
+                android:id="@+id/tv_choose_gallery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/choose_receipt_from_gallery"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/font_size_23sp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/button_bg"
+                android:paddingTop="@dimen/size_8dp"
+                android:paddingBottom="@dimen/size_8dp"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+
+</FrameLayout>

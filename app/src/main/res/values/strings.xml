@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dunzo</string>
+    <string name="capture_your_receipt">Capture Your Receipt</string>
+    <string name="choose_receipt_from_gallery">Choose Receipt From Gallery</string>
+    <string name="crop">Crop</string>
+    <string name="capture_receipt">Capture Receipt Demo</string>
+    <string name="crop_receipt">Crop </string>
+    <string name="review_receipt">Review </string>
+    <string name="spinner_title">Select Category</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="categories">
+        <item>Groceries</item>
+        <item>Electronics</item>
+        <item>Food</item>
+    </string-array>
+
+</resources>
